@@ -1,0 +1,21 @@
+---
+manufacturer: Ribbon
+model: MCIPS300F
+part_number: MCIPS300F
+interfaces:
+  - name: 1PPS MON
+    type: other
+  - name: 1PPS/ToD
+    type: t1
+  - name: T3/T4
+    type: other
+  - name: MNG
+    type: 1000base-t
+    mgmt_only: true
+  - name: LCT/CLI
+    type: 1000base-t
+console-ports:
+  - name: CONSOLE
+    type: rj-45
+  - name: USB
+    type: usb-a

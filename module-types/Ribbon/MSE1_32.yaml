@@ -1,0 +1,9 @@
+---
+manufacturer: Ribbon
+model: MSE1_32
+part_number: MSE1_32
+interfaces:
+  - name: 1
+    type: other
+  - name: 2
+    type: other

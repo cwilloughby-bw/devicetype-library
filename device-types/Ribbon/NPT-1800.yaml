@@ -1,0 +1,98 @@
+---
+manufacturer: Ribbon
+model: NPT-1800
+slug: npt-1800
+part_number: npt-1800
+u_height: 8
+is_full_depth: false
+module-bays:
+  - name: PS A
+    label: PS A
+    position: A
+  - name: PS B
+    label: PS B
+    position: B
+  - name: CIPS A
+    label: CIPS A
+    position: A
+  - name: CIPS B
+    label: CIPS B
+    position: B
+  - name: MCP A
+    label: MCP A
+    position: A
+  - name: MCP B
+    label: MCP B
+    position: B
+  - name: TS 1
+    label: TS 1
+    position: 1
+  - name: TS 2
+    label: TS 2
+    position: 2
+  - name: TS 3
+    label: TS 3
+    position: 3
+  - name: TS 4
+    label: TS 4
+    position: 4
+  - name: TS 5
+    label: TS 5
+    position: 5
+  - name: TS 6
+    label: TS 6
+    position: 6
+  - name: TS 7
+    label: TS 7
+    position: 7
+  - name: TS 8
+    label: TS 8
+    position: 8
+  - name: TS 9
+    label: TS 9
+    position: 9
+  - name: TS 10
+    label: TS 10
+    position: 10
+  - name: TS 11
+    label: TS 11
+    position: 11
+  - name: TS 12
+    label: TS 12
+    position: 12
+  - name: TS 13
+    label: TS 13
+    position: 13
+  - name: TS 14
+    label: TS 14
+    position: 14
+  - name: TS 15
+    label: TS 15
+    position: 15
+  - name: TS 16
+    label: TS 16
+    position: 16
+  - name: TS 17
+    label: TS 17
+    position: 17
+  - name: TS 18
+    label: TS 18
+    position: 18
+  - name: TS 19
+    label: TS 19
+    position: 19
+  - name: TS 20
+    label: TS 20
+    position: 20
+  - name: TS 21
+    label: TS 21
+    position: 21
+  - name: TS 22
+    label: TS 22 (ECB)
+    position: 22
+  - name: TS 23
+    label: TS 23
+    position: 23
+  - name: TS 24
+    label: TS 24
+    position: 24

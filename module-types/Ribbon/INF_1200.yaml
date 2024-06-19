@@ -1,0 +1,7 @@
+---
+manufacturer: Ribbon
+model: INF_1200
+part_number: INF_1200
+power-ports:
+  - name: Power {module}
+    type: other

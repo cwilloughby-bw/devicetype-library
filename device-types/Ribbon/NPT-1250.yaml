@@ -1,0 +1,46 @@
+---
+manufacturer: Ribbon
+model: NPT-1250
+slug: npt-1250
+part_number: npt-1250
+u_height: 2
+is_full_depth: false
+module-bays:
+  - name: ECB
+    label: ECB
+  - name: PS A
+    label: PS A
+    position: A
+  - name: PS B
+    label: PS B
+    position: B
+  - name: XS A
+    label: XS A
+    position: A
+  - name: XS B
+    label: XS B
+    position: B
+  - name: TS 1
+    label: TS 1
+    position: 1
+  - name: TS 2
+    label: TS 2
+    position: 2
+  - name: TS 3
+    label: TS 3
+    position: 3
+  - name: TS 4
+    label: TS 4
+    position: 4
+  - name: TS 5
+    label: TS 5
+    position: 5
+  - name: TS 6
+    label: TS 6
+    position: 6
+  - name: TS 7
+    label: TS 7
+    position: 7
+  - name: TS 8
+    label: TS 8
+    position: 8

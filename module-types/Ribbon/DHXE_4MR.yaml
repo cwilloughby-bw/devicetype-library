@@ -1,0 +1,13 @@
+---
+manufacturer: Ribbon
+model: DHXE_4MR
+part_number: DHXE_4MR
+interfaces:
+  - name: 1
+    type: 10gbase-x-sfpp
+  - name: 2
+    type: 10gbase-x-sfpp
+  - name: 3
+    type: 10gbase-x-sfpp
+  - name: 4
+    type: 10gbase-x-sfpp

@@ -1,0 +1,7 @@
+---
+manufacturer: Ribbon
+model: ECB_1250
+part_number: ECB_1250
+interfaces:
+  - name: Alarm
+    type: other
