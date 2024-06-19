@@ -1,0 +1,105 @@
+---
+manufacturer: Amphenol
+model: C21-P241SS
+slug: c21-p241ss
+part_number: c21-p241ss
+u_height: 1
+is_full_depth: false
+front-ports:
+  - name: Ports 1/2
+    label: Ports 1/2
+    type: sc-upc
+    rear_port: Ports 1/2
+    rear_position: 1
+  - name: Ports 3/4
+    label: Ports 3/4
+    type: sc-upc
+    rear_port: Ports 3/4
+    rear_position: 2
+  - name: Ports 5/6
+    label: Ports 5/6
+    type: sc-upc
+    rear_port: Ports 5/6
+    rear_position: 3
+  - name: Ports 7/8
+    label: Ports 7/8
+    type: sc-upc
+    rear_port: Ports 7/8
+    rear_position: 4
+  - name: Ports 9/10
+    label: Ports 9/10
+    type: sc-upc
+    rear_port: Ports 9/10
+    rear_position: 5
+  - name: Ports 11/12
+    label: Ports 11/12
+    type: sc-upc
+    rear_port: Ports 11/12
+    rear_position: 6
+  - name: Ports 13/14
+    label: Ports 13/14
+    type: sc-upc
+    rear_port: Ports 13/14
+    rear_position: 7
+  - name: Ports 15/16
+    label: Ports 15/16
+    type: sc-upc
+    rear_port: Ports 15/16
+    rear_position: 8
+  - name: Ports 17/18
+    label: Ports 17/18
+    type: sc-upc
+    rear_port: Ports 17/18
+    rear_position: 9
+  - name: Ports 19/20
+    label: Ports 19/20
+    type: sc-upc
+    rear_port: Ports 19/20
+    rear_position: 10
+  - name: Ports 21/22
+    label: Ports 21/22
+    type: sc-upc
+    rear_port: Ports 21/22
+    rear_position: 11
+  - name: Ports 23/24
+    label: Ports 23/24
+    type: sc-upc
+    rear_port: Ports 23/24
+    rear_position: 12
+rear-ports:
+  - name: Ports 1/2
+    label: Ports 1/2
+    type: sc-upc
+  - name: Ports 3/4
+    label: Ports 3/4
+    type: sc-upc
+  - name: Ports 5/6
+    label: Ports 5/6
+    type: sc-upc
+  - name: Ports 7/8
+    label: Ports 7/8
+    type: sc-upc
+  - name: Ports 9/10
+    label: Ports 9/10
+    type: sc-upc
+  - name: Ports 11/12
+    label: Ports 11/12
+    type: sc-upc
+  - name: Ports 13/14
+    label: Ports 13/14
+    type: sc-upc
+  - name: Ports 15/16
+    label: Ports 15/16
+    type: sc-upc
+  - name: Ports 17/18
+    label: Ports 17/18
+    type: sc-upc
+  - name: Ports 19/20
+    label: Ports 19/20
+    type: sc-upc
+  - name: Ports 21/22
+    label: Ports 21/22
+    type: sc-upc
+  - name: Ports 23/24
+    label: Ports 23/24
+    type: sc-upc
